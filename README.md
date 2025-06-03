@@ -308,7 +308,7 @@ step 1 2002
 **
 0 0 0 1 
 **
--0.8561  1
+0.8561  1
 **Number and orders of regular AR operators:
 1 1
 **
